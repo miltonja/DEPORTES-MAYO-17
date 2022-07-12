@@ -4,12 +4,6 @@ http://189.91.128.146:4444/udp/227.10.20.104:1234
 http://190.60.37.69:8015/play/a049/index.m3u8
 #EXTINF:-1,PREMIERE CLUBES HD
 http://189.91.128.146:4444/udp/227.10.20.102:1234
-#EXTINF:-1,ELEVEN1 CLUB
-http://187.13.92.85:4000/play/a055
-#EXTINF:-1,ELEVEN2 CLUB
-http://187.13.92.85:4000/play/a04y
-#EXTINF:-1,SETANTA QUAZAQSTAN
-http://cdnapp.top/lb/rpl1/index.m3u8
 #EXTINF:-1,Eurosport 1 HD
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5464
 #EXTINF:-1,M-1 Global
@@ -70,6 +64,5 @@ http://85.245.237.73:8082/play/a003
 http://85.245.237.73:8082/play/a006
 #EXTINF:-1 ,Sport Tv 1
 http://85.245.237.73:8082/play/a001
-#EXTINF:-1 ,ESPN 2 HD
-http://201.234.194.58:6020/play/a0e6/index.m3u8
+
 
