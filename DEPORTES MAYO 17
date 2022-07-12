@@ -72,15 +72,4 @@ http://85.245.237.73:8082/play/a006
 http://85.245.237.73:8082/play/a001
 #EXTINF:-1 ,ESPN 2 HD
 http://201.234.194.58:6020/play/a0e6/index.m3u8
-#EXTINF:-1 ,ESPN 2 HD
-http://201.234.194.58:6020/play/a0e1/index.m3u8
-#EXTINF:-1 ,ESPN 3 HD
-http://201.234.194.58:6020/play/a0e4/index.m3u8
-#EXTINF:-1 ,ESPN HD
-http://201.234.194.58:6020/play/a0e3/index.m3u8
-#EXTINF:-1 ,Win Sports HD
-http://201.234.194.58:6020/play/a0e2/index.m3u8
-#EXTINF:-1 , Sport tv 2 HD
-http://191.19.212.46:4013/playlist.m3u8
-#EXTINF:-1 , CONMEBOL TV
-http://191.19.212.46:4013/playlist.m3u8
+
